@@ -1,7 +1,0 @@
-2025-11-08 13:49:25 | LIST | All products
-2025-11-08 13:49:34 | SEARCH | name contains '4' → 0 results
-2025-11-09 00:22:44 | ADD | Product: телефон (всего товаров: 1)
-2025-11-09 00:22:50 | LIST | All products
-2025-11-09 00:23:33 | LIST | All products
-2025-11-09 00:23:49 | SEARCH | category='телефон' → 0 results
-2025-11-09 00:25:15 | UPDATE | ID: 1 (всего товаров: 1)
