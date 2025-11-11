@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "телефон",
+    "category": "смартфон",
+    "brand": "iphone",
+    "price": 2000,00,
+    "description": "хз"
+  }
+]
